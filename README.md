@@ -1,1 +1,1 @@
-# GraphQL-Chat-Application
+# My GraphQL Realtime message application !!
